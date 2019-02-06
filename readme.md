@@ -10,6 +10,9 @@ A voucher generator that works for PHP.
  - Generate with prefix and/or suffix
  - Different type of character base.
 
+### How to install
+` composer require yurichandra/maker `
+
 ### How to use
 
 ```php
