@@ -1,0 +1,24 @@
+{
+    "name": "yurichandra/maker",
+    "version": "0.1",
+    "description": "A voucher maker works for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maker\\": "src/",
+            "Maker\\Test\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuri Chandra Triputra",
+            "email": "yurichandra@gmail.com"
+        }
+    ]
+}
